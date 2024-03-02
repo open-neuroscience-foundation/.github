@@ -7,4 +7,4 @@ Anyone is welcome to contribute and participate.
 Governing Body and Founding Memebers:
 - https://github.com/nikolaydubina
 
-Referneces: [logos](https://github.com/open-neuroscience-foundation/.github/tree/main/logo)
+Referneces: [logos](https://github.com/open-neuroscience-foundation/.github/tree/main/logo), [endorsements-form](https://forms.gle/oQTnTFbpuEVr9dVR9)
