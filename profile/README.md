@@ -4,7 +4,7 @@ It is not officially affiliated with any academic, government, or commercial ins
 
 Anyone is welcome to contribute and participate.
 
-Governing Body and Founding Memebers:
+Contacts:
 - https://github.com/nikolaydubina
 
 Referneces: [logos](https://github.com/open-neuroscience-foundation/.github/tree/main/logo), [endorsements-form](https://forms.gle/oQTnTFbpuEVr9dVR9) 
