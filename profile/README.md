@@ -1,4 +1,4 @@
-**Open Neuroscience Foundation** is an non-profit open global community of academics, engineers, researchers, educators, as well as genral public interested in rapidly advancing field of neuroscience.
+**Open Neuroscience Foundation** is an non-profit open global community of academics, engineers, researchers, educators working on advancing field of neuroscience.
 
 Contacts:
 - https://github.com/nikolaydubina
